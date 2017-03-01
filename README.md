@@ -13,6 +13,7 @@ Along the way we will
 * add lessons and workflows to SGAT / splat or whatever software we settle on
 * prototype tools to query from the collated fits (mapview, leaflet, Shiny, RNotebooks)
 * publish static documents and blog from this or related organization
+* begin documenting who has loot and how we get it 
 
 ## Stage 2
 
