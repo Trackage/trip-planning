@@ -1,29 +1,17 @@
-# trip-planning
+# Trackage
 
-## Stage 1
+This organization aims to collate and organize the large body of tracking estimation output for the group. 
 
-Build a shared repository of trip-estimation outputs and consolidate the tools for mapping these. 
+## Planning
 
-* start smallish, three of us cover quite a lot of studies and variety of species and places
-* consolidate the SGAT-Pimage tools into the [splat package](https://github.com/Trackage/splat)
-* specify the  most-needed mapping outputs and work them up
+See this issue: https://github.com/Trackage/trip-planning/issues/1
 
-Along the way we will 
+## Guidelines
 
-* add lessons and workflows to SGAT / splat or whatever software we settle on
-* prototype tools to query from the collated fits (mapview, leaflet, Shiny, RNotebooks)
-* publish static documents and blog from this or related organization
-* begin documenting who has loot and how we get it 
+Trackage contains a number of repositories, mostly R packages that relate to working with track data. Some of these will go nowhere, but others like `splat` will be the main worker for SGAT outputs. 
 
-## Stage 2
+* use individual repos to report issues and ideas if they are directly relevant to that repository
+* use the Issues [tab of this repo](https://github.com/Trackage/trip-planning/issues) for general discussion and ideas
+* feel free to use the [Wiki](https://github.com/Trackage/trip-planning/wiki) for any other material
+* make it up as we go!
 
-Establish a long-term process for collating trip-estimation outputs. 
-
-* obtain sufficient allocation for disk storage and database
-* plan out archive of all the mess, we want to collate as much raw material as we can
-* build map of all the contributors, and where/how we get their stuff
-* build tools to automatically harvest the basic stuff, i.e. all the SGAT / tripEstimation fits
-
-## Stage 3
-
-World domination. 
